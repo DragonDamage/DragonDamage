@@ -46,7 +46,8 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kuberenetes" alt="Kuberenetes" width="100" height="100"/>&nbsp;
-  Mesos и OpenShift
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Apache_Mesos_Logo.svg/1200px-Apache_Mesos_Logo.svg.png" title="Mesos" alt="Mesos" width="200" height="90"/>&nbsp;
+  <img src="https://www.nubeva.com/hubfs/openshift.png" title="OpenShift" alt="OpenShift" width="150" height="100"/>&nbsp;
 </div>
 
 # SQL:
@@ -55,6 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoftsqlserver" alt="Microsoftsqlserver" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="100" height="100"/>&nbsp;
+  <img src="https://yt3.ggpht.com/K6xlosjaA5B8c6dT-ivD5w0fYE1OxZtEISc857GQT3DaGvUvxPxpknShP7tdNCU-e9awtjPg=s900-c-k-c0x00ffffff-no-rj" title="DBeaver" alt="DBeaver" width="100" height="100"/>&nbsp;
 <div>
     
 # Monitoring:
@@ -62,11 +64,10 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="100" height="100"/>&nbsp;
-  Elasticsearch
-  Logstash
-  Kibana
+  <img src="https://adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png" title="Zabbix" alt="Zabbix" width="150" height="150"/>&nbsp;
+  <img src="https://vectorified.com/images/kibana-icon-34.png" title="ELK" alt="ELK" width="300" height="150"/>&nbsp;
 <div>
-
+  
 # MQ:
 
 <div>
