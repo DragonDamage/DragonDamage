@@ -2,17 +2,17 @@
 
 ---
 
-- Обо мне:
+#### Обо мне:
   - 🅰️ На данный момент работаю в Альфа-Банке
   - 👨‍💻 Инженер OPS, DevOps
   - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"> На GitHub делюсь своими инструкциями
 
-- :dart: Мои интересы:
+#### :dart: Мои интересы:
   - :arrows_counterclockwise: DevOps практики
   - 🐳 Автоматизация процессов
   - :recycle: Сопровождение различных систем
 
-- 📫 Мои контакты: [![Telegram_Badge](https://img.shields.io/badge/-DragonDamage%20-red?logo=Telegram&logoColor=white&color=blue)](https://t.me/DragonDamage) [![@Mail Badge](https://img.shields.io/badge/Rikitikitime95@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:rikitikitime95@mail.ru)
+#### 📫 Мои контакты: [![Telegram_Badge](https://img.shields.io/badge/-DragonDamage%20-red?logo=Telegram&logoColor=white&color=blue)](https://t.me/DragonDamage) [![@Mail Badge](https://img.shields.io/badge/Rikitikitime95@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:rikitikitime95@mail.ru)
 
 
 <div id="header" align="center">
@@ -102,9 +102,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
 </div>
 
-
-
-<!---
-DragonDamage/DragonDamage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
