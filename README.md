@@ -1,17 +1,18 @@
-### 👋 Привет, меня зовут Андрей 
+### 👋 Привет, меня зовут Андрей!
 
 ---
+
 - Обо мне:
   - 🅰️ На данный момент работаю в Альфа-Банке
-  - :construction_worker: Инженер OPS, DevOps
-  - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"> На GitHub пытаюсь делиться своими простыми инструкциями
+  - 👨‍💻 Инженер OPS, DevOps
+  - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"> На GitHub делюсь своими инструкциями
 
 - :dart: Мои интересы:
   - :arrows_counterclockwise: DevOps практики
   - 🐳 Автоматизация процессов
   - :recycle: Сопровождение различных систем
 
-- 📫 Мои контакты: Rikitikitime95@mail.ru [![Telegram_Badge](https://img.shields.io/badge/-DragonDamage%20-red?logo=Telegram&logoColor=white&color=blue)](https://t.me/DragonDamage) [![@Mail Badge](https://img.shields.io/badge/Rikitikitime95@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:rikitikitime95@mail.ru)
+- 📫 Мои контакты: [![Telegram_Badge](https://img.shields.io/badge/-DragonDamage%20-red?logo=Telegram&logoColor=white&color=blue)](https://t.me/DragonDamage) [![@Mail Badge](https://img.shields.io/badge/Rikitikitime95@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:rikitikitime95@mail.ru)
 
 
 <div id="header" align="center">
@@ -19,7 +20,7 @@
   <img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif" width="375"/>
 </div>
 
-#
+---
 
 ### Linux:
 
@@ -32,9 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="100" height="100"/>&nbsp;
 </div>
 
-#
-
-#
+---
 
 ### CI/CD:
 
@@ -46,9 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="100" height="100"/>&nbsp;
 </div>
 
-#
-
-#
+---
 
 ### Trackers + Wiki:
 
@@ -57,9 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="100" height="100"/>&nbsp;
 </div>
 
-#
-
-#
+---
 
 ### Microservice Architecture:
 
@@ -70,9 +65,7 @@
   <img src="https://www.nubeva.com/hubfs/openshift.png" title="OpenShift" alt="OpenShift" width="150" height="100"/>&nbsp;
 </div>
 
-#
-
-#
+---
 
 ### SQL:
 
@@ -83,9 +76,7 @@
   <img src="https://yt3.ggpht.com/K6xlosjaA5B8c6dT-ivD5w0fYE1OxZtEISc857GQT3DaGvUvxPxpknShP7tdNCU-e9awtjPg=s900-c-k-c0x00ffffff-no-rj" title="DBeaver" alt="DBeaver" width="100" height="100"/>&nbsp;
 </div>
 
-#
-
-#
+---
 
 ### Monitoring:
 
@@ -96,9 +87,7 @@
   <img src="https://vectorified.com/images/kibana-icon-34.png" title="ELK" alt="ELK" width="300" height="150"/>&nbsp;
 </div>
 
-#
-
-#
+---
 
 ### MQ:
 
@@ -106,7 +95,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apachekafka" alt="Apachekafka" width="100" height="100"/>&nbsp;
 </div>
 
-#
+---
+
+### Dev:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
+</div>
+
+
 
 <!---
 DragonDamage/DragonDamage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
