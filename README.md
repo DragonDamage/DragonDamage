@@ -1,16 +1,22 @@
-- 👋 Привет, меня зовут Андрей
-- 🅰️ На данный момент работаю в Альфа-Банке
-- :construction_worker: Инженер OPS, DevOps
-- :octocat: На GitHub пытаюсь делиться своими простыми инструкциями
-- 📫 Mail для связи Rikitikitime95@mail.ru
-- 
+### 👋 Привет, меня зовут Андрей 
+
+---
+- Обо мне:
+  - 🅰️ На данный момент работаю в Альфа-Банке
+  - :construction_worker: Инженер OPS, DevOps
+  - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"> На GitHub пытаюсь делиться своими простыми инструкциями
+
 - :dart: Мои интересы:
-- :arrows_counterclockwise: DevOps практики
-- 🐳 Автоматизация процессов
-- :recycle: Сопровождение различных систем
+  - :arrows_counterclockwise: DevOps практики
+  - 🐳 Автоматизация процессов
+  - :recycle: Сопровождение различных систем
+
+- 📫 Мои контакты: Rikitikitime95@mail.ru [![Telegram_Badge](https://img.shields.io/badge/-DragonDamage%20-red?logo=Telegram&logoColor=white&color=blue)](https://t.me/DragonDamage) [![@Mail Badge](https://img.shields.io/badge/Rikitikitime95@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:rikitikitime95@mail.ru)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif" width="375"/>
 </div>
 
 #
