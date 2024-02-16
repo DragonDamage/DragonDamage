@@ -3,8 +3,8 @@
 ---
 
 #### Обо мне:
-  - 🅰️ На данный момент работаю в ТТ
-  - 👨‍💻 Инженер OPS, DevOps
+  - 👷 На данный момент работаю компании Транснефть
+  - 👨‍💻 DevOps инженер
   - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"> На GitHub делюсь своими инструкциями
 
 #### :dart: Мои интересы:
