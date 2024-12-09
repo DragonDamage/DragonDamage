@@ -10,7 +10,7 @@
 #### :dart: Мои интересы:
   - :arrows_counterclockwise: DevOps практики
   - 🐳 Автоматизация процессов
-  - :recycle: Сопровождение различных систем
+  - :recycle: Сопровождение и администрирование систем
 
 #### 📫 Мои контакты: [![Telegram_Badge](https://img.shields.io/badge/-DragonDamage%20-red?logo=Telegram&logoColor=white&color=blue)](https://t.me/DragonDamage) [![@Mail Badge](https://img.shields.io/badge/Rikitikitime95@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:rikitikitime95@mail.ru)
 
